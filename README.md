@@ -1,2 +1,5 @@
-# indoor-navigation-website
-Site to host indoor navigation simulator
+# Indoor Navigation Algorithm Simulation
+
+## How to Run
+
+Visit https://adewinmbi.github.io/indoor-navigation-website/
