@@ -1,5 +1,7 @@
 # Indoor Navigation Algorithm Simulation
 
+NOTE: This repository only holds website build code! For source code, see https://github.com/adewinmbi/indoor-navigation.
+
 ## How to Run
 
 Visit https://adewinmbi.github.io/indoor-navigation-website/
