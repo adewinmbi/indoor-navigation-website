@@ -17,3 +17,7 @@ These settings can be found under Player Settings.
   * Color Space = gamma
 * **Publishing Settings**:
   * Compression Format = Gzip
+
+Here are the Github Pages settings.
+* Source = Deploy from a branch
+* Branch = main (with /(root) folder)
